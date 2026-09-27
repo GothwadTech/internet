@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){for(var e=_XAPP_.getItem("browser_info"),t=document.querySelectorAll("[data-attr-id]"),n=0;n<t.length;n++){var r=t[n],a=r.getAttribute("data-attr-id"),o=e[a];o&&(r.innerHTML=a+": "+o)}document.querySelector("#user-agent-description").innerHTML=navigator.userAgent});

@@ -1,0 +1,1 @@
+.date-header{padding:10px 15px;color:#666;font-size:14px}.time-stamp{flex-shrink:0;color:#999;font-size:14px}header{display:flex;height:85px}.content{margin-top:90px}.checkbox{flex-shrink:0;margin-right:10px}#history-list .checkbox{display:none}#history-list.edit-mode .checkbox{display:flex}

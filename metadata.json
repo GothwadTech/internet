@@ -1,0 +1,6 @@
+{
+  "name": "Gothwad Internet",
+  "description": "Gothwad Internet - A lightweight, secure, and modern web browser built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
